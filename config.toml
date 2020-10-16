@@ -2,3 +2,20 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Szymon Duchniewicz"
 theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+
+[params]
+# website paraameters
+  author = "Szymon Duchniewicz"
+  description = "Computer Science MEng student at UCL. 2020-2024"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/Willmish"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/szymon-duchniewicz-b3b270158/"

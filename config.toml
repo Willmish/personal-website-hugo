@@ -19,3 +19,10 @@ theme = "m10c"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/szymon-duchniewicz-b3b270158/"
+  # Style
+  [params.style]
+    darkestColor = "#d35050"
+    darkColor = "#212121"
+    primaryColor = "#ffffff"
+    lightColor = "#a2a2a2"
+    lightestColor = "#d3d3d3"
